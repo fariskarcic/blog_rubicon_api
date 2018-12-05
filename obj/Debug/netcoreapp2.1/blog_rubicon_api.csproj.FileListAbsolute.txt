@@ -1,0 +1,14 @@
+c:\blog_rubicon_api\obj\Debug\netcoreapp2.1\blog_rubicon_api.csprojAssemblyReference.cache
+c:\blog_rubicon_api\obj\Debug\netcoreapp2.1\blog_rubicon_api.csproj.CoreCompileInputs.cache
+c:\blog_rubicon_api\obj\Debug\netcoreapp2.1\blog_rubicon_api.RazorAssemblyInfo.cache
+c:\blog_rubicon_api\obj\Debug\netcoreapp2.1\blog_rubicon_api.RazorAssemblyInfo.cs
+c:\blog_rubicon_api\obj\Debug\netcoreapp2.1\blog_rubicon_api.AssemblyInfoInputs.cache
+c:\blog_rubicon_api\obj\Debug\netcoreapp2.1\blog_rubicon_api.AssemblyInfo.cs
+C:\blog_rubicon_api\bin\Debug\netcoreapp2.1\blog_rubicon_api.deps.json
+C:\blog_rubicon_api\bin\Debug\netcoreapp2.1\blog_rubicon_api.runtimeconfig.json
+C:\blog_rubicon_api\bin\Debug\netcoreapp2.1\blog_rubicon_api.runtimeconfig.dev.json
+C:\blog_rubicon_api\bin\Debug\netcoreapp2.1\blog_rubicon_api.dll
+C:\blog_rubicon_api\bin\Debug\netcoreapp2.1\blog_rubicon_api.pdb
+C:\blog_rubicon_api\obj\Debug\netcoreapp2.1\blog_rubicon_api.RazorTargetAssemblyInfo.cache
+C:\blog_rubicon_api\obj\Debug\netcoreapp2.1\blog_rubicon_api.dll
+C:\blog_rubicon_api\obj\Debug\netcoreapp2.1\blog_rubicon_api.pdb
